@@ -1,0 +1,2 @@
+# rebasingsquashing
+Rebasing with squashing
